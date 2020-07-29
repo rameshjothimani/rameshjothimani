@@ -1,21 +1,21 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/RameshJothimani">
+<a href="https://twitter.com/RameshJothimani" target="_blank">
   <img align="left" alt="Ramesh Jothimani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rameshjothimani/">
+<a href="https://www.linkedin.com/in/rameshjothimani/" target="_blank">
   <img align="left" alt="Ramesh Jothimani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/rameshjothimani">
+<a href="https://github.com/rameshjothimani" target="_blank">
   <img align="left" alt="Ramesh Jothimani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://leetcode.com/explorer19/">
+<a href="https://leetcode.com/explorer19/" target="_blank">
   <img align="left" alt="Ramesh Jothimani's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="http://www.rameshjothimani.in/">
+<a href="http://www.rameshjothimani.in/" target="_blank">
   <img align="left" alt="Ramesh Jothimani's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
-<a href="https://www.facebook.com/rameshjothimani">
+<a href="https://www.facebook.com/rameshjothimani" target="_blank">
   <img align="left" alt="Ramesh Jothimani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
