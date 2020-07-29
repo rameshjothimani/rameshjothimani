@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**rameshjothimani/rameshjothimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/RameshJothimani">
+  <img align="left" alt="Ramesh Jothimani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rameshjothimani/">
+  <img align="left" alt="Ramesh Jothimani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/rameshjothimani">
+  <img align="left" alt="Ramesh Jothimani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://leetcode.com/explorer19/">
+  <img align="left" alt="Ramesh Jothimani's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="http://www.rameshjothimani.in/">
+  <img align="left" alt="Ramesh Jothimani's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+</a>
+<a href="https://www.facebook.com/rameshjothimani">
+  <img align="left" alt="Ramesh Jothimani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<br />
 
-Here are some ideas to get you started:
+### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=rameshjothimani.rameshjothimani)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Professional with 10+ Years of experience in Software design & development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+### More about me...
+
+- 🔭 I’m currently working on Java, Angular JS,  etc 💻.
+- 🌱 I’m currently learning about Cloud & Containers 🚀.
+- 👯 I’m looking to collaborate on any Open Source Project involving cloud Stack.
+- 📫 How to reach me: ramesh.iit19@gmail.com | [LinkedIn](https://www.linkedin.com/in/rameshjothimani/) | [Twitter](https://twitter.com/RameshJothimani)
+- 💻 I have worked on Java, Spring, Hibernate, JPA, Javascript, Backbone js, Angular js, Git, Docker, etc.
+- 💬 Ask me about anything related to Opensource or emerging technologies! I am happy to discuss and share my learnings.
+- ⚡ Fun fact: There's no place like 127.0.0.1 🤣. Hire [me](mailto:ramesh.iit19@gmail.com?Subject=Hello%20Ramesh) 👨‍💻.
