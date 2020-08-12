@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://gist.githubusercontent.com/rameshjothimani/9bf029d44f8cc000b90a4dca999e516e/raw/e25f7be33383a41aebb42f248af021bfcbb2e770/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/RameshJothimani" target="_blank">
   <img align="left" alt="Ramesh Jothimani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
