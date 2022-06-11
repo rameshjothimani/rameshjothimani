@@ -26,8 +26,8 @@ I'm a Software Professional with 10+ Years of experience in Software design & de
 
 ### More about me...
 
-- 🔭 I’m currently working on Java, Angular JS,  etc 💻.
-- 🌱 I’m currently learning about Cloud & Containers 🚀.
+- 🔭 I’m currently working on Java, Kafka,  etc 💻.
+- 🌱 I’m also working/exploring about Cloud & Containers 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving cloud Stack.
 - 📫 How to reach me: ramesh.iit19@gmail.com | [LinkedIn](https://www.linkedin.com/in/rameshjothimani/) | [Twitter](https://twitter.com/RameshJothimani)
 - 💻 I have worked on Java, Spring, Hibernate, JPA, Javascript, Backbone js, Angular js, Git, Docker, etc.
