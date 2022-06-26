@@ -23,7 +23,7 @@
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=rameshjothimani.rameshjothimani)
 
 I'm a Software Professional with 11+ years of experience in architecting, designing, building, deploying and maintaining highly scalable microservices
-and distributed applications. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ building highly scalable micro-service application and working on my Data Structures and Algorithms 🤓.
+and distributed applications. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently building highly scalable & reliable micro-service web applications 🕸️. Also working on my Data Structures and Algorithms 🤓.
 
 ### More about me...
 
