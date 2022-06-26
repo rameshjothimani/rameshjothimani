@@ -23,14 +23,14 @@
 ### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=rameshjothimani.rameshjothimani)
 
 I'm a Software Professional with 11+ years of experience in architecting, designing, building, deploying and maintaining highly scalable microservices
-and distributed applications. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+and distributed applications. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ building highly scalable micro-service application and working on my Data Structures and Algorithms 🤓.
 
 ### More about me...
 
-- 🔭 I’m currently working on Java, Kafka,  etc 💻.
-- 🌱 I’m also working/exploring about Cloud & Containers 🚀.
+- 🔭 I’m currently working on Java, Microservices,Kafka,  etc 💻.
+- 🌱 I’m also working/exploring about Cloud, Docker, Kubernetes etc., 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving cloud Stack.
 - 📫 How to reach me: ramesh.iit19@gmail.com | [LinkedIn](https://www.linkedin.com/in/rameshjothimani/) | [Twitter](https://twitter.com/RameshJothimani)
-- 💻 I have worked on Java, Spring, Hibernate, JPA, Javascript, Backbone js, Angular js, Git, Docker, etc.
+- 💻 I have worked on Java, Spring, Hibernate, JPA, Javascript, Backbone js, Angular js, Git, REST APIs, SOAP, oAuth 2.0, SAML etc.
 - 💬 Ask me about anything related to Opensource or emerging technologies! I am happy to discuss and share my learnings.
 - ⚡ Fun fact: There's no place like 127.0.0.1 🤣. Hire [me](mailto:ramesh.iit19@gmail.com?Subject=Hello%20Ramesh) 👨‍💻.
