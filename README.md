@@ -28,7 +28,7 @@ and distributed applications. I'm a passionate learner who's always willing to l
 ### More about me...
 
 - 🔭 I’m currently working on Java, Microservices,Kafka,  etc 💻.
-- 🌱 I’m also working/exploring about Cloud, Docker, Kubernetes etc., 🚀.
+- 🌱 I’m also working/exploring about Cloud, Docker, Kubernetes etc., & passionate about distributed systems 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving cloud Stack.
 - 📫 How to reach me: ramesh.iit19@gmail.com | [LinkedIn](https://www.linkedin.com/in/rameshjothimani/) | [Twitter](https://twitter.com/RameshJothimani)
 - 💻 I have worked on Java, Spring, Hibernate, JPA, Javascript, Backbone js, Angular js, Git, REST APIs, SOAP, oAuth 2.0, SAML etc.
