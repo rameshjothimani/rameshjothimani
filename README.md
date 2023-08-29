@@ -20,16 +20,16 @@
 </a>
 <br />
 
-### Glad to see you here! 🤩 ![](https://visitor-badge.glitch.me/badge?page_id=rameshjothimani.rameshjothimani&left_color=green&right_color=red)
-I'm a Software Professional with 11+ years of experience in architecting, designing, building, deploying and maintaining highly scalable microservices
+### Glad to see you here! 🤩 
+I'm a Software Professional with 11+ years of experience in architecting, designing, building, deploying, and maintaining highly scalable microservices
 and distributed applications. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently building highly scalable & reliable micro-service web applications 🕸️. Also working on my Data Structures and Algorithms 🤓.
 
 ### More about me...
 
-- 🔭 I’m currently working on Java, Microservices,Kafka,  etc 💻.
-- 🌱 I’m also working/exploring about Cloud, Docker, Kubernetes etc., & passionate about distributed systems 🚀.
+- 🔭 I’m currently working on Java, Microservices, Kafka,  etc 💻.
+- 🌱 I’m also working/exploring Cloud, Docker, Kubernetes, etc., & passionate about distributed systems 🚀.
 - 👯 I’m looking to collaborate on any Open Source Project involving cloud Stack.
 - 📫 How to reach me: ramesh.iit19@gmail.com | [LinkedIn](https://www.linkedin.com/in/rameshjothimani/) | [Twitter](https://twitter.com/RameshJothimani)
-- 💻 I have worked on Java, Spring, Hibernate, JPA, Javascript, Backbone js, Angular js, Git, REST APIs, SOAP, oAuth 2.0, SAML etc.
-- 💬 Ask me about anything related to Opensource, OpenBanking, FinTechs, Cloud or emerging technologies! I am happy to discuss and share my learnings.
+- 💻 I have worked on Java, Spring, Hibernate, JPA, Javascript, Backbone js, Angular js, Git, REST APIs, SOAP, OAuth 2.0, SAML, etc.
+- 💬 Ask me about anything related to Opensource, OpenBanking, FinTechs, Cloud, or emerging technologies! I am happy to discuss and share my learnings.
 - ⚡ Fun fact: There's no place like 127.0.0.1 🤣. Hire [me](mailto:ramesh.iit19@gmail.com?Subject=Hello%20Ramesh) 👨‍💻.
